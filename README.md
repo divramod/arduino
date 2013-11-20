@@ -16,3 +16,5 @@ arduino
 * http://www.vim.org/scripts/script.php?script_id=2654
 * Upload from Terminal
   * http://playground.arduino.cc/Learning/CommandLine
+  * http://www.martyndavis.com/?p=335
+* noduino
